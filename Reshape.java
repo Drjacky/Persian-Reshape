@@ -1,5 +1,3 @@
-package com.ertebyte.hazratzeinabsa;
-
 public class Reshape 
 {
     static final char RIGHT_LEFT_CHAR= 0x0001;
